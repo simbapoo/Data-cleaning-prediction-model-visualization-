@@ -24,7 +24,7 @@ between price vs area and district vs price
  
 Variables:district,area,year helps to predict apartment prices
 
- 4. Our regression consist:rooms,floor coef, year, area
+ 3. Our regression consist:rooms,floor coef, year, area
 first of all we run regression with 5 parameters, and our score 0.7993% then we remove last parameter and we have 0.7955%
 after that we delete floor_coef and return year out score 0.7992% after that we delete rooms and return coef our score 0.7960%
 after that we delete area and return rooms our score 0.5815%
