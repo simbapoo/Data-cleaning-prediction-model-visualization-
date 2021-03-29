@@ -5,15 +5,25 @@ We have some dataset from Krisha.kz, we need to clean this dataset
 and the let’s give a limit for “price”
 anyway it will be hard to work with “price”, that’s why decided divide “price” to 1000
 In this plot described frequency of district. 
+
 Where 
+
 1=Бостандыкский р-н
+
 2=Медеуский р-н
+
 3= Алмалинский р-н
+
 4= Ауэзовский р-н
+
 5= Жетысуский р-н
+
 6= Алатауский р-н
+
 7= Турксибский р-н
+
 8= Наурызбайский р-н
+
 and we se that Бостандыкский р-н many apartments for sales
 
 2. Let’s take three columns “price”, “area” and “district” from our dataset and see what we can infer by plotting to scatter plot 
